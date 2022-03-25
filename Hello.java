@@ -6,8 +6,7 @@ public class Hello {
 		System.out.println("Register");
 		System.out.println("What is Git?");
 		System.out.println("That's DVCS!");
-		System.out.println("test");
-		System.out.println("merge test");
+		System.out.println("Test2");
 	}
 }
 
